@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8v8336.date-me.pro/sitemap.xml
